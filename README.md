@@ -12,6 +12,8 @@ Nor does it properly handle calling subroutines (other stored procedures).
 
 Basically, it is not a "finished product". 
 I stopped when further work wasn't going to help get the project at hand further. I got the job done.
+A finished product would not only handle all the built in functions, but would flag places where a simple conversion won't work.
+Any automatic conversion has limits and humans have to take the converted program to a professional product.
 
 As it was written quite some time ago, it handled MySQL version 5.5.
 
